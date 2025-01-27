@@ -1,5 +1,5 @@
 # Python_project_1
-# A project of  programming with python 
+A project of  programming with python 
 # Weather Data Analysis Tool
 
 ## Overview
