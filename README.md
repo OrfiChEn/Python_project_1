@@ -1,5 +1,5 @@
 # Python_project_1
-A project of  programming with python 
+A Python application designed to analyze and visualize weather data. 
 # Weather Data Analysis Tool
 
 ## Overview
